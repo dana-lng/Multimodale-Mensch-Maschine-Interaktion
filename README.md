@@ -47,7 +47,7 @@ In einer Studie wurden typische Webaktionen wie Suchen, Scrollen und Link-Auswah
 ---
 
 ## 🧩 CASE-Modell
-Die Bewegungen des Pinguins werden CONCURRENT verarbeitet. .
+Die Bewegungen des Pinguins werden CONCURRENT verarbeitet.
 
 ---
 
