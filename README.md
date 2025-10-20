@@ -1,5 +1,5 @@
-# Multimodale Mensch-Maschine-Interaktion
-
+# 🎓 Multimodale Mensch-Maschine-Interaktion
+---
 ## 👩‍💻 Bearbeiterin
 **Name:** Dana Lenzig  
 **Matrikelnummer**: 57011  
