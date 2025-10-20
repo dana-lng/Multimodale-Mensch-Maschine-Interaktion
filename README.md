@@ -26,7 +26,7 @@ Insgesamt zeigt die Studie, dass die Kombination aus Eye Tracking und nichtverba
 ---
 
 ## 🧮 CARE-Modell
-![Abbildung des CARE-Modells](img/care-model.png) 
+![Abbildung des CARE-Modells](img/CARE-model.png) 
 
 ---
 
