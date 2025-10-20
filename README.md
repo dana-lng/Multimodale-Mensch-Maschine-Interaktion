@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Quelle
+## 📘 Quellen
 
 **All Birds Must Fly: The Experience of Multimodal Hands-free Gaming with Gaze and Nonverbal Voice Synchronization**
 
@@ -17,6 +17,20 @@ Dazu wurde ein eigenes 2D-Spiel entwickelt, in dem ein Pinguin durch Blickrichtu
 Die Ergebnisse zeigten, dass die Blick- und Stimmeingabe zwar langsamer, aber fast genauso präzise war wie die klassische Steuerung. Zudem wurde sie von den Teilnehmenden als spannender, unterhaltsamer und immersiver empfunden. Auch Personen mit Behinderungen konnten das Spiel erfolgreich bedienen.
 
 Insgesamt zeigt die Studie, dass die Kombination aus Eye Tracking und nichtverbaler Stimmeingabe ein vielversprechender Ansatz für inklusive und freihändige Interaktionen ist, der sich über Spiele hinaus in weiteren digitalen Anwendungen einsetzen lässt.
+
+(Bild)
+
+Das Paper "Hands-Free Web Browsing: Enriching the User Experience with Gaze and Voice Modality" kombiniert Blicksteuerung und Spracheingabe, um Webseiten vollständig freihändig bedienen zu können [Sengupta et al. 2018]. 
+In einer Studie wurden typische Webaktionen wie Suchen, Scrollen und Link-Auswahl mit einem multimodalen Browser getestet, bei dem der Blick die Orientierung und die Sprache die Bestätigung übernimmt. Im Vergleich zur reinen Sprach- oder Blicksteuerung zeigte sich die kombinierte Methode als deutlich effizienter (z. B. 70 % schnellere Link-Auswahl). Besonders positiv bewertet wurde die Möglichkeit, flexibel zwischen den Modalitäten zu wechseln – etwa bei Störungen oder Müdigkeit.
+
+Ähnlich wie in All Birds Must Fly wird deutlich, dass die Kombination beider Eingaben die Schwächen der Einzelmodalitäten ausgleicht und ein flüssigeres, barrierefreies Nutzungserlebnis schafft. Beide Arbeiten zeigen, dass multimodale Steuerung nicht nur technisch machbar, sondern auch subjektiv angenehmer und inklusiver ist.
+
+
+| Modalität | Hedeshy et al. 2022 | Sengupta et al. 2018 |
+| --- | --- | --- |
+| Blick | Bewegung der Figur | Orientierung im Webbrower |
+| (non-) verbale Steuerung | Springen | Auswahl im Webbrower |
+
 
 ---
 
