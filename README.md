@@ -2,13 +2,10 @@
 ---
 ## 👩‍💻 Bearbeiterin
 **Name:** Dana Lenzig  
-**Matrikelnummer**: 57011  
 
 ---
 
-## 📘 Quellen
-
-**All Birds Must Fly: The Experience of Multimodal Hands-free Gaming with Gaze and Nonverbal Voice Synchronization**
+## All Birds Must Fly: The Experience of Multimodal Hands-free Gaming with Gaze and Nonverbal Voice Synchronization
 
 In dem Paper „All Birds Must Fly: The Experience of Multimodal Hands-free Gaming with Gaze and Nonverbal Voice Synchronizatioy“ untersuchten die Autorinnen und Autoren, ob Computerspiele vollständig freihändig gesteuert werden können – also nur durch Blickbewegungen und nichtverbale Stimmeingaben wie Summen. Ziel war es, eine intuitive und barrierefreie Steuerung zu entwickeln, die auch für Menschen mit körperlichen Einschränkungen geeignet ist.
 
@@ -30,8 +27,8 @@ In einer Studie wurden typische Webaktionen wie Suchen, Scrollen und Link-Auswah
 
 | Modalität | Hedeshy et al. 2022 | Sengupta et al. 2018 |
 | --- | --- | --- |
-| Blick | Bewegung der Figur | Orientierung im Webbrower |
-| (non-) verbale Steuerung | Springen | Auswahl im Webbrower |
+| Blick | Bewegung der Figur | Orientierung im Webbrowser |
+| (non-) verbale Steuerung | Springen | Auswahl im Webbrowser |
 
 
 ---
