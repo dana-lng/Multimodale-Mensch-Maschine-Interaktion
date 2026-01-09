@@ -1,8 +1,10 @@
 # Metaphernproduktion – Erinnerungen ordnen
 
-Dieses Projekt entstand im Rahmen des Moduls **Multimodale Mensch-Maschine-Interaktion**  
-und beschäftigt sich mit der Entwicklung einer **Interaktionsmetapher** zur Visualisierung
-mentaler Prozesse.
+Dieses Projekt entstand im Rahmen des Moduls **Multimodale Mensch-Maschine-Interaktion**.
+
+Ziel der Aufgabe ist die Entwicklung einer **Operativmetapher**,  
+mit der eine komplexe funktionale Struktur durch ein vertrautes Bild
+verständlich, steuerbar und interaktiv erfahrbar gemacht wird.
 
 ## Thema
 **Erinnerungen ordnen** – ein interaktives Gedächtnis-Werkzeug
